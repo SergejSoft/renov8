@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Водители", "Строители", "Курьеры", "Сиделки", "Медсёстры", "Садовники", "Слесари", "Электрики"],
+      strings: ["Malerarbeiten", "Boden legen", "Fliesen legen", "Bad sanierung", "Innenanstrich", "Renovierung"],
       typeSpeed: 100,
       loop: true,
     });
