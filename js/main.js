@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Malerarbeiten", "Boden legen", "Fliesen legen", "Bad sanierung", "Innenanstrich", "Renovierung"],
+      strings: ["Painting", "Renovation", "Bathroom renovation", "Plumbing", "Electircal work", "Perfect Team"],
       typeSpeed: 100,
       loop: true,
     });
