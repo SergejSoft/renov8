@@ -263,9 +263,7 @@ nav ul li a {
   text-transform: uppercase;
   color: #393433;
 }
-/*.mobileHide{ 
-  display: none;
-}*/
+
 .mobileHide { display: inline; } 
 
 /* Smartphone Portrait and Landscape */ 
