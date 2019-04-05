@@ -314,15 +314,15 @@ nav ul li a {
 }
 
 #about .div-img-bg {
-  padding-bottom: 30px;
+  padding-bottom: 15px;
   border: 20px solid #b8a07e;
-  margin-top: 10px;
+  margin-top: 30px;
 }
 
 #about .div-img-bg .about-img img {
   width: 100%;
   box-shadow: 0px 0px 85px 0px rgba(0, 0, 0, 0.14);
-  margin-top: -30px;
+  margin-top: 10px;
   margin-left: 40px;
   height: 400px;
   object-fit: cover;
@@ -332,6 +332,13 @@ nav ul li a {
   font-family: 'Lato', serif;
   font-size: 24px;
   text-align: left;
+}
+
+#about .idea-block span{
+  text-transform: uppercase;
+  font-size: 13px;
+  color: #292929;
+  font-weight: 500;
 }
 
 #about .about-descr .separator {
@@ -345,9 +352,10 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #services {
-  background: #f7f7f7;
+  background: #c7c6c64d;
   position: relative;
-  padding-bottom: 80px;
+  padding-bottom: 20px;
+  padding-top: 20px;
 }
 
 .owl-item {
