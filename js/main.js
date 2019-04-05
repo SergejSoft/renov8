@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Painting", "Renovation", "Bathroom renovation", "Plumbing", "Electircal work", "Perfect Team"],
+      strings: ["Painting", "Renovation", "Bathroom renovation", "Plumbing", "Electircal work", "IKEA assembly"],
       typeSpeed: 100,
       loop: true,
     });

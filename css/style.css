@@ -87,7 +87,7 @@ p {
   padding: 0;
   font-size: 15px;
   color: #999999;
-  line-height: 28px;
+  line-height: 22px;
 }
 
 ::-moz-selection {
@@ -151,7 +151,7 @@ p {
 }
 
 .paddsection {
-  padding-top: 90px;
+  padding-top: 40px;
   padding-bottom: 90px;
 }
 
